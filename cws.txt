@@ -1,0 +1,21 @@
+<html>
+    <body>
+        <h1>College World Series</h1>
+        <h2>by Anthony Contreras</h2>
+        <p>The College World Series is the final stage of the college baseball playoffs. Some teams there were expected to be there, some were not. This year there are teams from both sides of the spectrum</p>
+        <h3>Teams that were predicted to be here</h3>
+        <ul>
+        <li>Vanderbilt</li>
+        <li>Arkansas</li>
+        <li>Mississippi State</li>
+        <li>Louisville</li>
+        <li>Texas Tech</li>
+        </ul>
+        <h3>Teams that weren't predicted to make it</ul>
+        <li>Michigan</li>
+        <li>Florida State</li>
+        <li>Auburn</li>
+        </ul>
+        <p>College baseball is entertaining to watch, and personally I like it more than the MLB. Every game teams put everything all on the line</p>
+    </body>
+</html>
